@@ -6,7 +6,6 @@ A React-Native mobile app that uses convolutional neural networks to determine i
 
 ### Demo and Testing
 In order to test, visit the website link https://expo.io/@kevinboxugao/SockMatch and scan the barcode using the expo app to demo.
-![Image of Barcode for Testing in Expo app](ScreenShots/BarCode.png | width=100))
 <img src="ScreenShots/BarCode.png" width="100">
 
 ### Other Links
