@@ -11,3 +11,4 @@ In order to test, visit the website link https://expo.io/@kevinboxugao/SockMatch
 
 ### Other Links
 ConvNet model URL: https://drive.google.com/file/d/1m_0f9ZbKvsj6G4MjAar0ViJKnfWq2wGp/view?usp=sharin
+Devpost: https://devpost.com/software/sock-match
